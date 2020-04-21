@@ -1,0 +1,136 @@
+* {
+    padding : 0;
+    margin : 0;
+}
+body {
+	width : 100%;
+	height:auto;
+    background : black;
+    color : black;
+}
+#pu{
+ position :absolute;
+ left:80%;
+font-size :1.0em;
+color :red;
+}
+#val {
+ position :absolute;
+ left :0em;
+font-size :1.0em;
+color :red;
+}
+#time {
+ position :absolute;
+ left :40%;
+font-size :1.0em;
+color :red;
+}
+#schermo{
+width :100%;
+height :50em;
+
+}
+#container{
+position :relative;
+background : black;
+ width :100%;
+ height :35em;
+}
+#conteiner2{
+position :relative;
+background : black;
+ width :100%;
+ height :35em;
+}
+#testa{
+position :absolute;
+top :0em;
+width : 100%;
+height : 5em;
+
+}
+#corpo {
+position :absolute;
+top : 5em;
+width :100%;
+height :25 em;
+
+}
+#piedi{
+position :absolute;
+top : 30em;
+width :100%;
+height :5em;
+
+}
+ #p1{
+  position :absolute;
+  left :0%;
+  top :  10%;
+    color : yellow;
+    font-size:8em;
+  }
+   #p2{
+  position :absolute;
+  left :35%;
+  top:0%;
+    color : red;
+     font-size:8em;
+  }
+   #p3{
+  position :absolute;
+  left :75%;
+  top:10%;
+    color : blue;
+     font-size:8em;
+  }
+  #avvia {
+   width : 40%;
+   height :10%;
+   border-radius:1.5em;
+   border : 0.1em solid blue;
+   position :absolute;
+   font-size:1.5em;
+   background: none;
+   color:white;
+   top :30%;
+   left: 30%;
+
+   }
+   #is2 {
+     width : 40%;
+   height : 70%;
+   border : 0.1em solid blue;
+   color:white;
+    background: none;
+    font-size:1.5em;
+    border-radius:1.5em;
+position :relative;
+   top:10%;
+   left :35%;
+    }
+   #is {
+     width : 40%;
+   height :10%;
+   border : 0.1em solid blue;
+   color:white;
+    background: none;
+    font-size:1.5em;
+    border-radius:1.5em;
+    position : absolute;
+    left: 30%;
+    top: 40%;
+    }
+    #dif{
+      width : 40%;
+   height :10%;
+   border : 0.1em solid blue;
+   border-radius:1.5em;
+   font-size:1.5em;
+   color:white;
+     background: none;
+     position : absolute;
+     left: 30%;
+     top :50%;
+     }
